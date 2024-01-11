@@ -2,6 +2,11 @@
 name = "minigrep"
 version = "0.1.0"
 edition = "2021"
+description = "A minimalistic grep tool"
+license = "MIT"  
+documentation = "https://example.com"
+homepage = "https://example.com/minigrep"
+repository = "https://github.com/harshal2804/minigrep"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
